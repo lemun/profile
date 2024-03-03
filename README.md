@@ -30,8 +30,8 @@
 
 </div>
 
-- 🔭 I’m currently working on **JavaScript & Python automation projects in Puppeteer!**
-- 🌱 I’m currently learning **JavaScript fullstack**
+- 🔭 I’m currently working on **JavaScript projects**
+- 🌱 I’m currently learning **Next.JS**
 - 💬 Ask me about **automation, and entrepreneurship!**
 - 📫 How to reach me: **hello@shaisina.com**
 - ⚡ Fun fact, I made my first automation when I was 15 years old!
