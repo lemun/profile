@@ -33,7 +33,7 @@
 - 🔭 I’m currently working on **JavaScript projects**
 - 🌱 I’m currently learning **Next.JS**
 - 💬 Ask me about **automation, and entrepreneurship!**
-- 📫 How to reach me: **hello@shaisina.com**
+- 📫 How to reach me: **hello@shaisinai.com**
 - ⚡ Fun fact, I made my first automation when I was 15 years old!
 
 
