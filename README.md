@@ -33,7 +33,7 @@
 - 🔭 I’m currently working on **JavaScript & Python automation projects in Puppeteer!**
 - 🌱 I’m currently learning **JavaScript fullstack**
 - 💬 Ask me about **automation, and entrepreneurship!**
-- 📫 How to reach me: **lemun420il@gmail.com**
+- 📫 How to reach me: **hello@shaisina.com**
 - ⚡ Fun fact, I made my first automation when I was 15 years old!
 
 
