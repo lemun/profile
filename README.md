@@ -9,7 +9,7 @@
 <h1> Hey! I'm Shai Sinai</h1>
 
 </a>
-<h3> A Quality Automation Tester & Programmer from Israel </h3>
+<h3> A QA Automation Engineer from Israel </h3>
 
 <a href="https://github.com/lemun/" target="blank">
 <img src="https://img.shields.io/badge/github%20-%23161b22.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Andrés Movilla"/>
@@ -30,10 +30,10 @@
 
 </div>
 
-- 🔭 I’m currently working on **JavaScript projects**
-- 🌱 I’m currently learning **Next.JS**
+- 🔭 I’m currently working on **TypeScript projects**
+- 🌱 I’m currently learning **React Native**
 - 💬 Ask me about **automation, and entrepreneurship!**
-- 📫 How to reach me: **hello@shaisinai.com**
+- 📫 How to reach me: **shai@tuta.com**
 - ⚡ Fun fact, I made my first automation when I was 15 years old!
 
 
